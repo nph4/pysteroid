@@ -10,5 +10,4 @@ wheels/
 .venv
 
 # Temp Files
-*.py~
-*.un~
+*.*~
